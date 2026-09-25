@@ -1,0 +1,6 @@
+file=open("sample.txt","w")
+file.write("Name: T.Jaya Manasa\n")
+file.write("Age: 18\n")
+file.write("Course: Diploma CCN\n")
+file.close()
+print("students details written successfully")

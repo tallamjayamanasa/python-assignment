@@ -1,0 +1,8 @@
+file=open("number.txt","w")
+file.write("10\n")
+file.write("20\n")
+file.write("30\n")
+file.write("40\n")
+file.write("50\n")
+file.close()
+print("numbers written successfully")

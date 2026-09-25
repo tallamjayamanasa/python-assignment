@@ -1,0 +1,3 @@
+result = 2 ** 3 * 4 / 2 + 10 - 5
+
+print(result)
